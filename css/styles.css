@@ -2,7 +2,6 @@ body{
     text-align: center;
     margin: 0;
     color: white;
-    font-family: 'Oleo Script', cursive;
     background-image: linear-gradient(to left,#1B5592,#558DAE);
 }
 
@@ -11,6 +10,7 @@ div{
     text-align: center;
 }
 h3{
+    font-family: 'Oleo Script', cursive;
     font-weight: bolder;
 }
 
@@ -27,6 +27,7 @@ hr{
 }
 
 h1{
+    font-family: 'Oleo Script', cursive;
     font-size: 50px;
 }
 .ttle{
@@ -38,15 +39,14 @@ h1{
     margin: 100px auto;
     text-align: left;
 }
-
 .ski{
-    width: 15%;
+    width: 20%;
     float: left;
     padding-right: 20px;
 }
 
 .ski2{
-    width: 15%;
+    width: 20%;
     float: right;
     padding-left: 20px;
 }
